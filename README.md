@@ -1,11 +1,25 @@
-👋 Hey there, I'm Pawan Kumar Singh!
+<h1 align="center">Hi 👋, I'm Pawan Kumar Singh</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 
-🚀 I'm a passionate and innovative software engineer on a perpetual journey to turn ideas into tangible digital realities. My mission? To craft elegant, efficient, and user-centric solutions that not only solve problems but also inspire and elevate user experiences.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawankumarrsingh&label=Profile%20views&color=0e75b6&style=flat" alt="pawankumarrsingh" /> </p>
 
-💻 With a background in Computer Engineering, I thrive in the dynamic world of technology. My toolbox includes an array of programming languages, frameworks, and tools, such as ReactJS, Blockchain. I'm all about staying up-to-date with the latest trends and best practices, ensuring my work is at the cutting edge of the industry.
+- 🌱 I’m currently learning **Springboot**
 
-🌟 What sets me apart? It's not just the code; it's the ability to transform concepts into seamless user journeys. I've honed my skills in logical thinking, user experience (UX) design, and project management, allowing me to see the big picture while sweating the smallest details.
+- 👨‍💻 All of my projects are available at [https://portfoliopks.vercel.app/](https://portfoliopks.vercel.app/)
 
-🌐 When I'm not coding, you'll find me trekking. Life's all about balance, right?
+- 📫 How to reach me **singhpawankumar707@gmail.com**
 
-📬 Let's connect and embark on exciting journeys together. Feel free to reach out on ps5042189@gmail.com. Let's build the future, one line of code at a time! 💡🌍 #TechEnthusiast #Innovator #ProblemSolver
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GOTh2sYnMtv9lGGdiHErrOgXZO3Ig1Ch/view?usp=sharing](https://drive.google.com/file/d/1GOTh2sYnMtv9lGGdiHErrOgXZO3Ig1Ch/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pawanrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawanrs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/pawansin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pawansin/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawankumarrsingh&show_icons=true&locale=en&layout=compact" alt="pawankumarrsingh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawankumarrsingh&show_icons=true&locale=en" alt="pawankumarrsingh" /></p>
